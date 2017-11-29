@@ -2,7 +2,6 @@ package proyectofinal
 
 class Usuario {
 
-
     String nombre
     String npellido
     String nombreDeUsuario

@@ -7,6 +7,13 @@
 //
 //= require jquery-2.2.0.min
 //= require bootstrap
+//= require custom
+//= require isotope.pkgd
+//= require jquery.mycart
+//= require jquery.nicescroll
+//= require jquery.prettyPhoto
+//= require owl.carousel
+//= require wow
 //= require_tree .
 //= require_self
 

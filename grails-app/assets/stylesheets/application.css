@@ -8,6 +8,12 @@
 * compiled file, but it's generally better to create a new file per style scope.
 *
 *= require bootstrap
+*= animate
+*= bootstrap-responsive
+*= font-awesome
+*= owl.carousel
+*= pe-icon-7-stroke
+*= style
 *= require grails
 *= require main
 *= require mobile
